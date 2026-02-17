@@ -1,0 +1,304 @@
+# Greenfoot Energy Solutions
+
+> Greenfoot Energy Solutions is a Canadian energy efficiency company specializing in mini-split heat pump installation, repair, and maintenance, as well as solar energy, insulation, and commercial HVAC services. We serve homeowners and businesses across Atlantic Canada (Nova Scotia, New Brunswick, Prince Edward Island, Newfoundland & Labrador) and British Columbia.
+
+## Company Information
+
+- Website: https://www.greenfootenergy.ca
+- Phone: 1 (800) 380-9384
+- Booking: https://scheduling.greenfootenergy.ca
+- Languages: English, French Canadian (FR-CA)
+- Founded in Atlantic Canada
+- BBB Accredited, over 4,500 five-star Google reviews
+
+## Service Areas
+
+Greenfoot Energy Solutions operates in 5 Canadian provinces with 17 physical locations:
+
+### Nova Scotia
+- Kentville: 1592 Harrington Rd, B4N 3V7 — (902) 608-5726
+- Dartmouth: 133 Ilsley Avenue, Unit H, B3B 1S9 — (902) 706-0917
+- New Glasgow: 831 Granton Abercrombie Rd, B2H 5C6 — (902) 706-0917
+- Bridgewater: South Shore area
+- Sydney: Cape Breton area
+
+### New Brunswick
+- Fredericton: Capital region
+- Moncton: Greater Moncton area
+- Saint John: Port City area
+- Tracadie-Sheila: Acadian Peninsula
+
+### Prince Edward Island
+- Charlottetown: Island-wide service
+
+### Newfoundland & Labrador
+- Paradise (St. John's metro): Avalon Peninsula
+
+### British Columbia
+- Victoria: Vancouver Island
+- Surrey: Metro Vancouver
+- Langley: Fraser Valley
+- Abbotsford: Fraser Valley
+- Kamloops: Interior BC
+- Kelowna: Okanagan Valley
+
+## Services
+
+### Heat Pump Services (Primary)
+
+#### Mini-Split Heat Pumps
+- Ductless heating and cooling systems
+- Ideal for single rooms, additions, and homes without ductwork
+- Installation, repair, and maintenance
+- Page: /services/mini-split-heat-pumps
+
+#### Ducted Central Heat Pumps
+- Whole-home heating and cooling through existing ductwork
+- Replaces traditional furnace and AC systems
+- Page: /services/ducted-central-heat-pumps
+
+#### Geothermal Heat Pumps
+- Ground-source heating and cooling
+- Most efficient system available (300-500% efficiency)
+- Uses stable underground temperatures
+- Page: /services/geothermal-heat-pumps
+
+#### Dual Fuel Heating Systems
+- Heat pump combined with backup furnace
+- Optimal for extreme cold climates
+- Automatic switchover at set temperature
+- Page: /services/dual-fuel-heating-systems
+
+#### Air Conditioning
+- Central AC installation and repair
+- Ductless AC systems
+- Page: /services/air-conditioning
+
+### Solar Energy
+
+#### Residential Solar
+- Rooftop solar panel installation
+- Grid-tied systems with net metering
+- Page: /services/residential-solar
+
+#### Commercial Solar
+- Large-scale solar installations for businesses
+- Available across BC, NB, NS, and PEI
+- Province-specific timelines: BC 4-7 weeks, NB 6-10 weeks, NS 8-12 weeks, PEI 8-12 weeks
+- Page: /services/commercial-solar
+
+#### Solar Energy Overview
+- Complete solar information hub
+- Page: /services/solar-energy
+
+### Insulation Services
+
+#### Spray Foam Insulation
+- Open-cell and closed-cell options
+- Highest R-value per inch
+- Air sealing and moisture barrier
+- Location-specific pages for Halifax, Fredericton, Charlottetown, St. John's, Tracadie, Vancouver
+- Page: /services/sprayfoam-insulation
+
+#### Blown-In Insulation
+- Cellulose and fiberglass options
+- Attic and wall cavity insulation
+- Page: /services/blown-in-insulation
+
+#### Batt & Poly Insulation
+- Traditional fiberglass batts
+- Vapor barrier installation
+- Page: /services/batt-poly-insulation
+
+#### Soundproofing
+- Acoustic insulation solutions
+- Page: /services/soundproofing
+
+### Indoor Air Quality
+
+#### Ventilation (HRV/ERV)
+- Heat Recovery Ventilators
+- Energy Recovery Ventilators
+- Improves indoor air quality while maintaining efficiency
+- Page: /services/indoor-air-quality-ventilation
+
+### Other Services
+
+#### Generators
+- Backup power solutions
+- Whole-home standby generators
+- Page: /services/generators
+
+#### Water Heaters
+- Heat pump water heaters
+- Energy-efficient hot water solutions
+- Page: /services/water-heaters
+
+#### Peak Smart Thermostat
+- Smart home climate control
+- Remote monitoring capabilities
+- Page: /services/peak-thermostat
+
+#### Service Yeti (Maintenance Plans)
+- Annual maintenance service plans
+- Priority service and discounts
+- Page: /services/maintenance-service-yeti
+
+#### Urban Yeti Appliances
+- Multi-unit appliance solutions
+- Page: /services/urban-yeti-appliances
+
+### Commercial Services
+
+#### Commercial HVAC
+- Large-scale heating and cooling for businesses
+- Page: /services/commercial-hvac
+
+#### Commercial Services
+- Full commercial energy solutions
+- Page: /services/commercial-services
+
+## Heat Pump Brands Installed
+
+### Daikin
+- Japanese manufacturer known for reliability
+- Wide range of residential and commercial models
+- Page: /brands/daikin-heat-pumps
+
+### LG
+- South Korean technology leader
+- Advanced inverter technology
+- Page: /brands/lg-heat-pumps
+
+### Mitsubishi Electric
+- Industry-leading Hyper-Heat technology
+- Operates efficiently in extreme cold (-25°C and below)
+- Page: /brands/mitsubishi-electric-heat-pumps
+
+### Kerr
+- Canadian-designed heat pumps
+- Built for Canadian climates
+- Page: /brands/kerr-heat-pumps
+
+### GE (General Electric)
+- Reliable American brand
+- Affordable residential options
+- Page: /brands/general-electric-heat-pumps
+
+### Gridless
+- Off-grid heat pump solutions
+- Innovative Canadian technology
+- Page: /brands/gridless-heat-pumps
+
+## Provincial Government Rebates & Incentives
+
+Greenfoot helps customers access government rebates and incentives for energy-efficient upgrades. Information available at: /provincial-incentives
+
+Provinces covered:
+- Nova Scotia: Efficiency Nova Scotia programs
+- New Brunswick: NB Power programs, PIEER Program
+- Prince Edward Island: efficiencyPEI programs
+- Newfoundland & Labrador: takeCHARGE programs
+- British Columbia: CleanBC programs, FortisBC incentives
+
+## Financing
+
+Greenfoot offers financing options to make energy-efficient upgrades affordable.
+Page: /financing
+
+## Special Programs & Promotions
+
+- Oil to Heat Pump Conversion: Up to $15,000+ in combined rebates — /lp/oil-to-heat-pump-rebate-up-to-15k
+- New Home $15K Rebate: For new construction — /lp/new-home-15k-rebate
+- Refurbished Heat Pumps: Affordable certified pre-owned units — /lp/refurbished-heat-pumps
+- Cozy Subscription: Monthly payment plans for heat pumps — /lp/cozy-subscription
+- PIEER Program: PEI-specific energy efficiency rebates — /lp/pieer-program
+- Insulation Rebates: Province-specific programs for BC, NB, NS, NL, PEI — /lp/nova-scotia-insulation-rebates, etc.
+- $2/Day Program: Affordable payment options — /2-a-day
+- Referral Program: Earn rewards for referring friends — /referral
+- Sweepstakes: Current promotions — /sweepstakes
+- Current Specials: /specials-promotions
+
+## Membership Plans
+
+Annual maintenance membership plans with benefits including priority service, discounts on repairs, and annual tune-ups.
+Page: /membership-plans
+
+## Frequently Asked Questions
+
+Greenfoot maintains over 400 FAQs covering topics including:
+- Heat pump selection, installation, and maintenance
+- Mini-split vs. ducted systems
+- Costs and energy savings
+- Government rebates and incentives
+- Solar energy systems
+- Insulation types and benefits
+- Indoor air quality and ventilation
+- Geothermal systems
+- Generators and backup power
+- Water heaters
+- Commercial HVAC solutions
+- Soundproofing
+- Smart thermostats and remote monitoring
+- Location-specific climate considerations for all 17 service areas
+
+FAQ Page: /faq
+
+## Blog & Resources
+
+Published articles on energy efficiency topics:
+- Energy Saving Tips for Your Home
+- Expert Energy Efficiency Tips for Canadian Homeowners
+- Canadian Rebates for Solar Installations
+- The Benefits of HVAC Systems
+- Understanding HVAC Systems
+- Peak Smart Thermostat: Revolutionizing Home Climate Control
+- All-in-One Comfort: Full Range of Services at Greenfoot Energy Solutions
+- Debunking Solar Energy Myths
+- Geothermal for Home or Business
+- The Benefits of Heat Pumps
+- Greenfoot Energy Systems Renews Partnership with Saint John Energy
+
+Blog: /blog
+
+## Heat Pump Glossary
+
+A comprehensive glossary of HVAC and heat pump terminology for homeowners.
+Page: /heat-pump-glossary
+
+## About Greenfoot
+
+Greenfoot Energy Solutions is committed to helping Canadians reduce energy costs and environmental impact through efficient heating, cooling, and renewable energy solutions. The company combines expert installation with ongoing maintenance support.
+Page: /about-us
+
+## Contact
+
+- Main Phone: 1 (800) 380-9384
+- Book Online: https://scheduling.greenfootenergy.ca
+- Contact Page: /contact-us
+- Google Reviews: /google-reviews-page
+- Review Our Services: /review-our-services
+
+## Kids Club
+
+Greenfoot runs a kids club program focused on environmental education.
+Page: /kids-club
+
+## French Canadian (FR-CA) Version
+
+The entire website is available in French Canadian at the /fr-ca/ URL prefix. Key French terminology:
+- Heat pump = Thermopompe (NOT "pompe à chaleur")
+- Mini-split = Thermopompe mini-split
+- All services, locations, FAQs, and blog content available in French
+
+## Key Business Facts
+
+- Serves both residential and commercial customers
+- Licensed and insured in all service provinces
+- BBB Accredited Business
+- Over 4,500 five-star Google reviews
+- Free in-home assessments available
+- Flexible financing options
+- Government rebate assistance included
+- Bilingual service (English and French)
+- Emergency repair service available
