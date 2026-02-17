@@ -2,9 +2,10 @@ import { defineConfig } from 'vite';
 import react from '@vitejs/plugin-react';
 import tailwindcss from '@tailwindcss/vite';
 import path from 'path';
+import { fallbackImagesPlugin } from './vite-plugin-fallback-images';
 
 export default defineConfig({
-  plugins: [react(), tailwindcss()],
+  plugins: [fallbackImagesPlugin(), react(), tailwindcss()],
   root: 'client',
   build: {
     outDir: '../dist/public',
