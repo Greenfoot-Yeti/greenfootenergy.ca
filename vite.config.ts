@@ -2,7 +2,7 @@ import { defineConfig } from 'vite';
 import react from '@vitejs/plugin-react';
 import tailwindcss from '@tailwindcss/vite';
 import path from 'path';
-import { fallbackImagesPlugin } from './vite-plugin-fallback-images';
+import { fallbackImagesPlugin } from './vite-plugin-fallback-images.js';
 
 export default defineConfig({
   plugins: [fallbackImagesPlugin(), react(), tailwindcss()],
